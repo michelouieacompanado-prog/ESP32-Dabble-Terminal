@@ -57,11 +57,16 @@ The activity demonstrates how an ESP32 can communicate wirelessly with a mobile 
 
 
 Screenshots (.png, .jpg):
+
+
 <img width="720" height="1520" alt="aa98da14-0728-4a89-8f73-87f46a3c01b7" src="https://github.com/user-attachments/assets/39bfc512-cb89-4c3c-8316-597184cb80ab" />
+
 
 <img width="1366" height="729" alt="dabble" src="https://github.com/user-attachments/assets/31709577-5fe6-45c4-8fc3-b3df9e2d1df1" />
 
+
 <img width="2048" height="1536" alt="0d4f22ad-e348-40e5-b63a-b5b35047618b" src="https://github.com/user-attachments/assets/77de5940-355f-4965-aa6b-2582d456b843" />
+
 
 Short Video Clips (.mp4, .mov up to 100MB):
 
