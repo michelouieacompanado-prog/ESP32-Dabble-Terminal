@@ -56,7 +56,7 @@ Dabble Terminal response:
 The activity demonstrates how an ESP32 can communicate wirelessly with a mobile device through Bluetooth. This provides a basic foundation for developing IoT applications where a mobile phone can interact with and control a microcontroller.
 
 
-Screenshots (.png, .jpg):
+##Screenshots (.png, .jpg):
 
 
 <img width="720" height="1520" alt="aa98da14-0728-4a89-8f73-87f46a3c01b7" src="https://github.com/user-attachments/assets/39bfc512-cb89-4c3c-8316-597184cb80ab" />
@@ -68,7 +68,7 @@ Screenshots (.png, .jpg):
 <img width="2048" height="1536" alt="0d4f22ad-e348-40e5-b63a-b5b35047618b" src="https://github.com/user-attachments/assets/77de5940-355f-4965-aa6b-2582d456b843" />
 
 
-Short Video Clips (.mp4, .mov up to 100MB):
+##Short Video Clips (.mp4, .mov up to 100MB):
 
 
 https://github.com/user-attachments/assets/fbd23c05-d109-4f46-97e6-1766d862bcb1
